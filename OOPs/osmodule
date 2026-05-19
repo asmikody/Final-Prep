@@ -1,0 +1,27 @@
+# import os 
+# print(os.getcwd())
+# # print(os.getcwd())
+# # os.mkdir("pythonproject12")
+
+# os.chdir('C:pythonproject12')
+# # os.chdir("C:MyPythonProject") # changing current workign directory
+# print(os.getcwd())  #output: 'C:MyPythonProject'
+
+# with open("file.txt",'w') as file:
+#     file.write("hello")
+# import os 
+# cwd = os.getcwd()
+# print(cwd)
+# os.mkdir("C:helloo")
+
+# import os
+# directory = "Geeweks"
+# parent_dir = "C:/GeeksforGeeeks/"
+# path = os.path.join(parent_dir, directory)
+# os.mkdir(path)
+
+import os 
+path = "/"
+dir_list = os.listdir(path) 
+print("Files and directories in '", path, "' :") 
+print(dir_list)

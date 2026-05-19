@@ -1,0 +1,12 @@
+Que:1
+I have a food delivery time prediction dataset, and I want to build a model using a boosting algorithm. The model’s accuracy should be above 80%.
+
+Que:2
+You have a large dataset (500,000 rows, 50 features) for predicting whether a customer will purchase a product. The data contains missing values, categorical features, outliers in numerical data, and imbalanced classes (90% non-purchasers, 10% purchasers).
+Question:
+How would you handle the missing data, outliers, and class imbalance before training a model, and which evaluation metrics would you prioritize to assess model performance?
+ 
+Que:3
+You’re tasked with segmenting 100,000 customers based on their purchasing behavior across various categories (electronics, fashion, home goods, etc.). The data includes both numerical and categorical features.
+Question:
+Which clustering algorithm would you choose for this dataset, and how would you determine the optimal number of clusters?
